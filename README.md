@@ -1,201 +1,146 @@
 # Kevin Mays 👋
 
-### Independent AI Systems Developer
-**Local AI Systems | AI Agents | Automation | Linux Infrastructure**
+### AI Systems Developer | Python Automation | Linux Infrastructure
 
-I'm a self-taught AI systems developer focused on designing,
-integrating, and testing practical AI solutions.
+**Self-hosted AI • Agent Integration • Software Automation • Systems Engineering**
 
-My work combines locally hosted language models, persistent
-memory systems, software automation, and hands-on infrastructure
-development.
+I'm a self-directed developer and technical problem-solver based in Texas, transitioning into professional technology employment after approximately 11 years of hands-on operational troubleshooting, maintenance, and electronic access-control work.
 
-I enjoy solving technical problems, experimenting with emerging
-technologies, and turning complex ideas into working systems.
+I design, integrate, troubleshoot, and test working technical systems using Python, Linux, local language models, automation tools, and self-hosted infrastructure.
+
+My primary development ecosystem, **Project Milly**, brings together AI agents, persistent memory, scheduled automation, authenticated APIs, and distributed services across Linux, Windows, and Android environments.
+
+**I'm actively seeking opportunities in AI automation, AI systems integration, Python development, Linux support, and technical infrastructure.**
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Portfolio — Project Milly
 
-### Project Milly — Self-Hosted AI Agent Ecosystem
+### [Explore Project Milly: Engineering Portfolio](https://github.com/kevdarev711/Project-Milly-Showcase)
 
-Project Milly is my primary AI development project.
+Project Milly is an independently developed, self-hosted AI assistant ecosystem supported by Python automation, persistent databases, Linux infrastructure, and connected applications.
 
-It is a modular, locally hosted AI assistant ecosystem combining
-large language models, persistent memory, automation tools,
-and multi-agent collaboration.
+My responsibilities include system architecture, integration, AI-assisted software development, troubleshooting, testing, technical documentation, and controlled deployment.
 
-**Core Technologies:**
-- Python
-- Ubuntu Linux
-- SQLite
-- KoboldCpp
-- Open Interpreter
-- Semantic Embeddings
-- REST APIs
-- SSH
-- Docker and Virtualization
+The public portfolio contains engineering case studies, architecture diagrams, historical verification evidence, and runnable Python examples.
 
-**Key Accomplishments:**
-- Designed and integrated a persistent AI memory system.
-- Implemented semantic retrieval and conversation recall.
-- Established human-reviewed memory approval workflows.
-- Connected two AI agents through an SSH-based delegation system.
-- Integrated self-hosted web research capabilities.
-- Developed AI-assisted Android application build workflows.
-- Tested working software applications on physical devices.
+**Selected engineering projects:**
 
-**My Role:**
+| Project | Engineering Focus |
+|---|---|
+| [Persistent AI Memory](https://github.com/kevdarev711/Project-Milly-Showcase/blob/main/case-studies/persistent-memory.md) | SQLite, semantic retrieval, conversation recall, reviewed memory updates |
+| [Multi-Agent Collaboration](https://github.com/kevdarev711/Project-Milly-Showcase/blob/main/case-studies/multi-agent-collaboration.md) | SSH-based agent communication, task delegation, integration testing |
+| [Household Automation](https://github.com/kevdarev711/Project-Milly-Showcase/blob/main/case-studies/Milly_Household_Automation_Case_Study_GitHub_Ready.md) | Python, recurring tasks, persistent state, authenticated notifications |
+| [Potato Command Center](https://github.com/kevdarev711/Project-Milly-Showcase/blob/main/case-studies/potato-command-center.md) | Linux administration, monitoring, backups, recovery, Bash/Python |
+| [Household PA Voice Automation](https://github.com/kevdarev711/Project-Milly-Showcase/blob/main/case-studies/milly-household-pa.md) | Python scheduling, authenticated APIs, SSH, TTS, Mumble, Windows integration |
+| [Android Development](https://github.com/kevdarev711/Project-Milly-Showcase/blob/main/case-studies/android-development.md) | AI-assisted application development, controlled builds, device testing |
 
-System design, architecture decisions, AI-assisted development,
-infrastructure configuration, troubleshooting, integration,
-and hands-on testing.
+---
 
-**Project Status:** Active Development
+## 💻 Inspectable Python Projects
 
-*Detailed project documentation is maintained in a private
-repository while sensitive infrastructure information is reviewed
-for safe public release.*
+Beyond architecture and case studies, my portfolio includes Python source code and automated tests.
+
+**[SPUD Retention Scanner](https://github.com/kevdarev711/Project-Milly-Showcase/tree/main/code-examples/spud-retention-scanner)**
+
+A read-only snapshot-retention classification tool demonstrating filesystem operations, timestamp validation, regex processing, configurable policies, and automated testing.
+
+**[Household PA Scheduler](https://github.com/kevdarev711/Project-Milly-Showcase/tree/main/code-examples/milly-pa-scheduler)**
+
+A sanitized Python demonstration of scheduled announcements, duplicate-state tracking, and simulated delivery with automated tests.
+
+These are portfolio-safe examples. Production implementations and private infrastructure remain separate.
 
 ---
 
 ## 🧠 Technical Skills
 
-### Artificial Intelligence
-- Local LLM deployment and configuration
-- AI agent integration and orchestration
-- Retrieval-augmented generation (RAG)
-- Semantic embeddings and vector retrieval
-- Persistent AI memory architecture
-- AI-assisted software development
-
-### Software Development
-- Python scripting and automation
-- REST API integration
-- SQLite database management
-- Git version control
-- Android development workflows
-- Debugging and integration testing
-
-### Infrastructure & Systems
-- Ubuntu Linux
-- Windows
-- Docker
-- Virtualization
-- SSH and remote system administration
-- Self-hosted applications
-- Homelab networking
-- System troubleshooting
+| Area | Technologies and Experience |
+|---|---|
+| **Programming** | Python, Bash, SQL fundamentals, SQLite, JSON, Git |
+| **AI Integration** | Local LLMs, KoboldCpp, Open Interpreter, agent tools, semantic retrieval, persistent memory |
+| **APIs & Automation** | HTTP/REST integrations, CLI tools, scheduled tasks, authenticated service communication |
+| **Linux Administration** | Ubuntu, Armbian, systemd, cron, SSH, tmux, Docker, virtualization |
+| **Networking** | Ethernet/Wi-Fi, LAN diagnostics, Tailscale, SSH tunneling, service connectivity |
+| **Testing & Operations** | Automated tests, log analysis, debugging, backup validation, recovery, technical documentation |
+| **Cross-Platform** | Windows integration, Android build workflows, ARM-based Linux systems |
 
 ---
 
-## 🛠️ What I've Built
+## 🛠️ Verified Engineering Work
 
-### Persistent AI Memory
+I prioritize documented behavior over unsupported claims of completeness.
 
-Designed and integrated an AI memory architecture using
-structured SQLite databases, semantic embeddings,
-and context-aware retrieval.
+Some examples from my development records:
 
-The system supports historical conversation recall and
-human-reviewed updates to permanent memory records.
+- **11/11/2026 — System health verification:** A recorded health check reported 26 SQLite databases passing integrity checks, 125 monitored core files matching their accepted baseline, and a successful backup with zero reported failures or warnings.
+- **11/04/2026 — Infrastructure automation:** Verified unattended Server1 snapshot execution and archive integrity through the Potato Command Center project.
+- **11/16/2026 — Distributed voice integration:** Completed and accepted integration testing for Python-scheduled PA announcements across Linux services, authenticated SSH forwarding, speech synthesis, Mumble, and a Windows listening endpoint. Extended operational validation remained pending in the documented handoff.
+- **Python testing:** Published sanitized, runnable source examples with automated tests and explanations of their implementation limitations.
 
-### Multi-Agent AI Collaboration
+These results represent dated project verification, not a claim of enterprise production deployment or continuous availability.
 
-Established a tested communication workflow connecting
-two locally hosted AI agents.
-
-The system uses SSH-based delegation and supports
-human oversight of authorized operations.
-
-### AI-Assisted Application Development
-
-Developed and tested workflows that allow a locally hosted
-AI assistant to help create software applications.
-
-Projects include graphical Python applications and
-Android applications built and tested on physical devices.
-
-### Self-Hosted AI Infrastructure
-
-Configured and maintained Linux-based environments
-supporting local language models, automation services,
-development tools, and AI integrations.
+**[View detailed engineering evidence](https://github.com/kevdarev711/Project-Milly-Showcase)**
 
 ---
 
-## ⚙️ My Engineering Approach
+## ⚙️ How I Work
 
-I focus on practical, maintainable, and testable solutions.
+I use AI-assisted development tools as part of my workflow while retaining responsibility for engineering decisions, system configuration, integration, troubleshooting, and acceptance.
 
-My development process emphasizes:
+My approach emphasizes:
 
-1. Defining project requirements.
-2. Designing modular system architectures.
-3. Establishing operational and security boundaries.
-4. Using AI-assisted development tools.
-5. Configuring and integrating supporting infrastructure.
-6. Troubleshooting failures.
-7. Testing actual functionality.
-8. Documenting results and limitations.
+1. Defining clear requirements and practical scope.
+2. Reusing existing tools and infrastructure where possible.
+3. Keeping development and production changes controlled.
+4. Testing functionality rather than assuming generated code works.
+5. Recording failures, limitations, and reproducible evidence.
+6. Maintaining backups, recovery procedures, and human approval for significant changes.
 
-I believe AI-generated code should be reviewed and tested,
-and that successful demonstrations should be distinguished
-from complete production readiness.
+I value maintainable systems, transparent documentation, and the ability to explain why an implementation works—and where it can fail.
 
 ---
 
-## 📚 Professional Development
+## 👨‍💻 Professional Background
 
-I'm continuing to strengthen my skills in:
+Before focusing on technology development, I worked for **Burnet Consolidated Independent School District from 05/2015 to 04/2026**.
 
-- Python software engineering
-- AI agent architecture
-- API development and integration
-- Automated testing
-- Secure deployment and infrastructure management
+My responsibilities progressed from warehouse and delivery operations to general maintenance and district locksmithing, including electronic access-control troubleshooting, equipment repair, operational reliability, and security-sensitive key management.
 
-My long-term goal is to work professionally in AI systems
-development, building practical AI tools and integrations
-that solve real-world problems.
+That experience strengthened the same skills I now apply to technology: diagnosing problems, understanding complex systems, maintaining reliable operations, and taking responsibility for the outcome of a repair.
+
+I have since applied those skills to Linux infrastructure, Python automation, self-hosted AI systems, and software integration.
 
 ---
 
-## 📂 Portfolio Development
+## 🎯 Career Interests
 
-Additional documentation, technical demonstrations,
-and sanitized project examples are being prepared.
+I'm seeking professional opportunities where I can apply my existing hands-on technical experience and continue developing as an engineer.
 
-My current focus is building a portfolio that accurately
-demonstrates practical experience with AI systems,
-automation, and infrastructure integration.
+I'm particularly interested in:
 
----
+- Junior AI Automation Engineer
+- AI Systems Integration Specialist
+- Junior Python Developer
+- Linux Support / Systems Administration
+- Technical Support Engineer
+- Infrastructure Automation
 
-## 🤝 Professional Interests
-
-I'm interested in opportunities involving:
-
-- AI Systems Development
-- AI Agent Integration
-- AI Automation
-- Local LLM Infrastructure
-- AI-Powered Application Development
-- Systems Integration
-
-I'm especially interested in positions where practical
-problem-solving, hands-on technical experience, and
-continued learning are valued.
+I'm especially interested in teams that value demonstrated projects, practical troubleshooting, curiosity, and the ability to learn complex technical systems.
 
 ---
 
-## 📬 Contact
+## 📬 Connect
 
-I'm open to discussing AI development opportunities,
-technical collaboration, and related projects.
+**GitHub:** [@kevdarev711](https://github.com/kevdarev711)
 
-You can contact me through my GitHub profile.
+**Engineering Portfolio:** [Project Milly Showcase](https://github.com/kevdarev711/Project-Milly-Showcase)
+
+I'm open to discussing relevant technology positions, engineering opportunities, and professional collaboration.
 
 ---
 
-*Building practical AI systems, one project at a time.*
+*Building practical systems. Testing what works. Documenting what matters.*
+
+**Kevin Mays**  
+Independent AI Systems Developer
