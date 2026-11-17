@@ -1,12 +1,14 @@
 # Kevin Mays 👋
 
-### AI Systems Integration · Python Automation · Linux Infrastructure
+### Junior AI & Automation Engineering · Python Development · Linux Infrastructure
 
-I'm a self-directed developer and technical problem-solver in Texas, moving into professional technology work after nearly 11 years in operations, maintenance, and electronic access-control troubleshooting.
+I'm an aspiring software and AI automation engineer based in Texas, with hands-on experience building, integrating, testing, and troubleshooting self-hosted AI systems, Python automation, and Linux infrastructure.
 
-I build and troubleshoot **self-hosted AI integrations, Python automation, and Linux infrastructure**. My flagship project, **Project Milly**, connects local language models, persistent memory, scheduled tools, and services across Linux, Windows, and Android.
+Through **Project Milly**, I've developed practical engineering experience with system integration, API communication, persistent memory, automated tests, and infrastructure management across Linux, Windows, and Android.
 
-**Open to junior AI automation/integration, Python development, Linux support, technical support engineering, and entry-level infrastructure roles.**
+I also bring nearly 11 years of operational troubleshooting, maintenance, and electronic access-control experience.
+
+**Seeking junior or entry-level software engineering, AI automation engineering, and systems integration engineering opportunities.** I'm also open to Linux infrastructure and technical support engineering roles.
 
 ## 🔎 Start Here — Inspectable Python Code
 
@@ -57,7 +59,7 @@ That hands-on troubleshooting background now informs my Linux, Python automation
 
 ---
 
-**Currently seeking entry-level and junior technical opportunities.**  
+**Currently seeking junior and entry-level engineering opportunities.**  
 [Project Milly Showcase](https://github.com/kevdarev711/Project-Milly-Showcase) · [GitHub Profile](https://github.com/kevdarev711)
 
 *Building practical systems. Testing what works. Documenting what matters.*
